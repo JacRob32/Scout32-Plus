@@ -1,1 +1,1 @@
-# Scout32-Plus
+# Scout32+
